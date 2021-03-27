@@ -6,8 +6,6 @@
       - Exploratory Test
       - Scrum
       - Lean
-      - Kanban
-- 💞️ I’m looking to collaborate on any projects using Java and C# languages
 - 📫 How to reach me
       - calinepatriota@gmail.com
 <!---
