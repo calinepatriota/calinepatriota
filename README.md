@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @calinepatriota
-- 🌱 I’m currently working as QA Engineering at CESAR 
 - 👀 I'm interested in technologies envolving Automation Testing and IA (Web, Mobile and Desktops contexts), API Testing, Exploratory Test, Scrum, Lean
 - 📫 How to reach me - calinepatriota@gmail.com
 <!---
