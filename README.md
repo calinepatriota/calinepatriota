@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calinepatriota
-- 👀 I am interested in technologies that involve test automation for mobile, API, web and desktop.
+- 👀 I'm interested in technologies that involve test automation for Mobile, API, Web and Desktop applications.
 - 📫 How to reach me - calinepatriota@gmail.com
 <!---
 calinepatriota/calinepatriota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
