@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calinepatriota
-- 👀 I'm interested in technologies envolving Automation Testing and IA (Web, Mobile and Desktops contexts), API Testing, Exploratory Test, Scrum, Lean
+- 👀 I am interested in technologies that involve test automation for mobile, API, web and desktop and I am enthusiastic about the DevOps area.
 - 📫 How to reach me - calinepatriota@gmail.com
 <!---
 calinepatriota/calinepatriota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
